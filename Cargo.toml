@@ -26,8 +26,9 @@ chrono = { version = "0.4.38", optional = true }
 dhat = { version = "0.3.3", optional = true }
 pico-args = "0.5.0"
 tinyjson = "2.5.1"
+
+# Solution dependencies
 fixedbitset = "0.5.7"
 strum = "0.27.2"
 strum_macros = "0.27.2"
-
-# Solution dependencies
+itertools = "0.14.0"
